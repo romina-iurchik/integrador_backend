@@ -18,3 +18,7 @@ TrailerFlix - A partir de un set de datos se crea una API rest para consultar di
 - 💃 Nombre del Actor
 - 🆔 ID
 - 🎭 Categoría
+
+<p align="center">
+  <img src="https://github.com/licette32/Back-dev/blob/main/imagen.png" alt="readme" width="400"/>
+</p>
